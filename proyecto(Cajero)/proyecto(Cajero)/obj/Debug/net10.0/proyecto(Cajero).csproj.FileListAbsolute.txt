@@ -1,0 +1,14 @@
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\bin\Debug\net10.0\proyecto(Cajero).exe
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\bin\Debug\net10.0\proyecto(Cajero).deps.json
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\bin\Debug\net10.0\proyecto(Cajero).runtimeconfig.json
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\bin\Debug\net10.0\proyecto(Cajero).dll
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\bin\Debug\net10.0\proyecto(Cajero).pdb
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).AssemblyInfoInputs.cache
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).AssemblyInfo.cs
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).csproj.CoreCompileInputs.cache
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).dll
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\refint\proyecto(Cajero).dll
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).pdb
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\proyecto(Cajero).genruntimeconfig.cache
+C:\Users\Sintax\source\repos\proyecto(Cajero)\proyecto(Cajero)\obj\Debug\net10.0\ref\proyecto(Cajero).dll
